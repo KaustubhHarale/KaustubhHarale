@@ -1,16 +1,19 @@
 ## Kaustubh Harale
 <div align="center">
 
-  <!-- 🔥 Meme Fire Fail -->
-  <img src="https://media.giphy.com/media/yoJC2xvOP1a3Pio78Q/giphy.gif" width="100%" height="200" alt="Funny Fire Fail">
+  <!-- 😂 Funny Meme Banner -->
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="200" alt="Meme Banner">
 
-  <h1 style="color:white; font-size:60px; margin-top:-140px; text-shadow:3px 3px 6px #000;">
+  <!-- 😎 Name Over Meme -->
+  <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
     Kaustubh Harale
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+🚀;AI/ML+Enthusiast+🤖;Code+Craftsman+🛠️;Fire+Breather+🔥;Bug+Hunter+🐛" alt="Typing SVG" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+👨‍💻;AI%2FML+Enthusiast+🤯;Debugger+of+Reality+😵;Stack+Overflow+Survivor+🪦;Keyboard+Smasher+🎹" alt="Typing SVG" />
 
 </div>
+
 
 
 <!-- Typing Animation -->
