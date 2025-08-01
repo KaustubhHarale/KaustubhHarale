@@ -1,10 +1,10 @@
 ## Kaustubh Harale
 <div align="center">
 
-  <!-- 😂 Funny Meme Banner -->
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="200" alt="Meme Banner">
+  <!-- 🤯 Reaction Meme Banner -->
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" height="200" alt="Funny Face Meme">
 
-  <!-- 😎 Name Over Meme -->
+  <!-- 😎 Name Overlay -->
   <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
     Kaustubh Harale
   </h1>
