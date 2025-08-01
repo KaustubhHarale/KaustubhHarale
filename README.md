@@ -1,7 +1,5 @@
 ## Kaustubh Harale
 
-![Kaustubh Harale](https://readme-img.onrender.com/api/banner?username=KaustubhHarale&theme=dark&template=modern&font=Roboto)
-
 Hi, I'm Kaustubh Harale . I'm passionate about coding, technology, and open-source projects.
 
 - 🔭 I’m currently working on **Myself** and **Myself Only**.
