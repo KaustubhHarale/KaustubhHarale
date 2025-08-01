@@ -10,7 +10,7 @@
   </h1>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+👨‍💻;AI%2FML+Enthusiast+🤯;Debugger+of+Reality+😵;Stack+Overflow+Survivor+🪦;Keyboard+Smasher+🎹" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Yapper+👨‍💻;AI%2FML+Listener+🤯;Debugger+of+Life+😵;Stack+Overflow+Survivor+🪦;Keyboard+Smasher+🎹" alt="Typing SVG" />
 
 </div>
 
