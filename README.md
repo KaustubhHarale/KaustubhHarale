@@ -9,8 +9,6 @@
     Welcome To My Profile
   </h1>
 
-  <!-- ⌨️ Typing Animation (Red) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full Stack Yapper;AI/ML Listener;Debugger of Life;Stack Overflow Survivor 🪦;Keyboard Smasher 🎹" alt="Typing SVG" />
 
 </div>
 
