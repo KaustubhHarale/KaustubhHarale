@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 
 # Welcome to KaustubhHarale's GitHub Profile 🔥
 
 ![Flames](https://via.placeholder.com/1500x300/000000/FF0000?text=Flames)  <!-- You can replace this URL with a red flames image if you'd like -->
