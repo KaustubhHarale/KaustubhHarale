@@ -6,7 +6,7 @@
 
   <!-- 🔥 Name Over Fire -->
   <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
-    Kaustubh Harale
+
   </h1>
 
   <!-- Typing Animation -->
