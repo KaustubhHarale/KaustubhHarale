@@ -1,8 +1,8 @@
 ## Kaustubh Harale
 <div align="center">
 
-  <!-- 🔥 Funny Fire Character Banner -->
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" height="200" alt="Funny Fire Banner">
+  <!-- 🔥 New Fire-Themed Animated Banner -->
+  <img src="https://media.giphy.com/media/l0MYDGA5UL2POZxVG/giphy.gif" width="100%" height="200" alt="Fire Header">
 
   <!-- 🔥 Name Over Fire -->
   <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
