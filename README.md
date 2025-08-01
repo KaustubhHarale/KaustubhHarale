@@ -1,11 +1,11 @@
 ## Kaustubh Harale
 <div align="center">
-  
-  <!-- Animated Space Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Kaustubh%20Harale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
+
+  <!-- 🔥 Fiery Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff7f00,ffff00&height=200&section=header&text=Kaustubh%20Harale&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header"/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Code+Craftsman+%F0%9F%9B%A0%EF%B8%8F;Space+Explorer+%F0%9F%8C%8C;Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Code+Craftsman+%F0%9F%9B%A0%EF%B8%8F;Fire+Breather+%F0%9F%94%A5;Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 
 </div>
 
