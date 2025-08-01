@@ -1,13 +1,16 @@
 ## Kaustubh Harale
 <div align="center">
 
-  <!-- 🔥 New Fire-Themed Animated Banner -->
-  <img src="https://media.giphy.com/media/l0MYDGA5UL2POZxVG/giphy.gif" width="100%" height="200" alt="Fire Header">
+  <!-- 🔥 Funny Cartoon Flame -->
+  <img src="https://media.giphy.com/media/Cky2F8U8p5zTHOJq2v/giphy.gif" width="100%" height="200" alt="Funny Cartoon Fire">
 
-  <!-- 🔥 Name Over Fire -->
-  <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
-   Welcome to My profile
+  <h1 style="color:white; font-size:60px; margin-top:-140px; text-shadow:3px 3px 6px #000;">
+    Kaustubh Harale
   </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+🚀;AI/ML+Enthusiast+🤖;Code+Craftsman+🛠️;Fire+Breather+🔥;Bug+Hunter+🐛" alt="Typing SVG" />
+
+</div>
 
 <!-- Typing Animation -->
 <div align="center">
