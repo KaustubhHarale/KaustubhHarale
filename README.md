@@ -7,19 +7,16 @@
 
 Hi, I'm Kaustubh Harale 👋. I am passionate about coding, technology, and open-source projects.
 
-- 🔭 I’m currently working on **web development** and **data science**.
-- 🌱 I’m learning **React.js**, **Node.js**, and **Machine Learning**.
-- 💬 Ask me about **Python**, **JavaScript**, and **AI**.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) or [Twitter](https://twitter.com/your_username)
+- 🔭 I’m currently working on **Myself** and **Myself Only**.
+- 🌱 I’m learning **How to code**
+- 💬 Ask me about **Nothing**
+- 📫 How to reach me: [Email](mailto:kaustubhharale20@gmail.com)
 
 ---
 
 ## 🔥 My Projects
 
-1. [Project 1](https://github.com/KaustubhHarale/Project1) - Description of your project.
-2. [Project 2](https://github.com/KaustubhHarale/Project2) - Description of your project.
-3. [Project 3](https://github.com/KaustubhHarale/Project3) - Description of your project.
-
+1. currently none
 ---
 
 ## 🔥 Stats
