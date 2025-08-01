@@ -6,11 +6,11 @@
 
   <!-- 🔥 Name Over Fire -->
   <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
-
+   Welcome to My profile
   </h1>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A4%96;Code+Craftsman+%F0%9F%9B%A0%EF%B8%8F;Fire+Breather+%F0%9F%94%A5;Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Yapper+%F0%9F%9A%80;AI%2FML+Listner+%F0%9F%A4%96;Code+Craftsman+%F0%9F%9B%A0%EF%B8%8F;Fire+Breather+%F0%9F%94%A5;Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 
 </div>
 
