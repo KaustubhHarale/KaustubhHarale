@@ -1,8 +1,8 @@
-## 🔥 Kaustubh Harale
+## Kaustubh Harale
 
 ![Kaustubh Harale](https://via.placeholder.com/1500x300/000000/FF0000?text=Kaustubh+Harale)
 
-Hi, I'm Kaustubh Harale 👋. I'm passionate about coding, technology, and open-source projects.
+Hi, I'm Kaustubh Harale . I'm passionate about coding, technology, and open-source projects.
 
 - 🔭 I’m currently working on **Myself** and **Myself Only**.
 - 🌱 I’m learning **How to code**.
