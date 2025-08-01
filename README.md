@@ -1,16 +1,16 @@
 ## Kaustubh Harale
 <div align="center">
 
-  <!-- 🤯 Reaction Meme Banner -->
+  <!-- 🤯 Funny Meme Face Banner -->
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100%" height="200" alt="Funny Face Meme">
 
-  <!-- 😎 Name Overlay -->
+  <!-- 🧠 Name Over the Banner -->
   <h1 style="color:white; font-size: 60px; margin-top: -140px; text-shadow: 3px 3px 6px #000;">
-    Kaustubh Harale
+    Welcome To My Profile 
   </h1>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Yapper+👨‍💻;AI%2FML+Listener+🤯;Debugger+of+Life+😵;Stack+Overflow+Survivor+🪦;Keyboard+Smasher+🎹" alt="Typing SVG" />
+  <!-- ⌨️ Typing Animation (Red Color) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Yapper;AI%2FML+Listner;Debugger+of+Life;Stack+Overflow+Survivor+🪦;Keyboard+Smasher+🎹" alt="Typing SVG" />
 
 </div>
 
